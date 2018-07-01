@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JournalApp</string>
+    <string name="title_activity_journal">JournalActivity</string>
+    <string name="journal_title_description">What would you like to call your entry?</string>
+    <string name="journal_body_description">Pen your thoughts</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
